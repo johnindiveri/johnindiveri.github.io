@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>John Indiveri | Talent & People Operations Leader</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      color: #1f2933;
+      background: #f9fafb;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #0f172a;
+      color: #ffffff;
+      padding: 80px 24px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 12px;
+    }
+
+    h2 {
+      margin-top: 64px;
+      margin-bottom: 16px;
+      font-size: 2rem;
+      border-left: 4px solid #0f172a;
+      padding-left: 12px;
+    }
+
+    h3 {
+      margin-top: 24px;
+      margin-bottom: 8px;
+    }
+
+    p {
+      max-width: 800px;
+    }
+
+    section {
+      padding: 64px 24px;
+    }
+
+    .subtitle {
+      font-size: 1.2rem;
+      color: #cbd5e1;
+      max-width: 700px;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 24px;
+      margin-top: 32px;
+    }
+
+    .metric-card {
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 24px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+
+    .metric-value {
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #0f172a;
+    }
+
+    .metric-label {
+      color: #475569;
+    }
+
+    .case-study {
+      background: #ffffff;
+      padding: 32px;
+      border-radius: 8px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+
+    .case-study ul {
+      padding-left: 18px;
+    }
+
+    .tools {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 16px;
+    }
+
+    .tool {
+      background: #e5e7eb;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      background: #0f172a;
+      color: #cbd5e1;
+      padding: 40px 24px;
+      text-align: center;
+    }
+
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <h1>John Indiveri</h1>
+    <p class="subtitle">
+      Talent Acquisition & People Operations leader specializing in building scalable hiring systems,
+      early-stage growth, and high-impact executive recruitment.
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/john-indiveri/" target="_blank">LinkedIn Profile →</a>
+    </p>
+  </div>
+</header>
+
+<section class="container">
+  <h2>Career Impact by the Numbers</h2>
+
+  <div class="metrics">
+    <div class="metric-card">
+      <div class="metric-value">100+</div>
+      <div class="metric-label">Hires Scaled in 12 Months</div>
+    </div>
+
+    <div class="metric-card">
+      <div class="metric-value">30 Days</div>
+      <div class="metric-label">Average Time-to-Hire</div>
+    </div>
+
+    <div class="metric-card">
+      <div class="metric-value">92%</div>
+      <div class="metric-label">Offer Acceptance Rate</div>
+    </div>
+
+    <div class="metric-card">
+      <div class="metric-value">$180K</div>
+      <div class="metric-label">Revenue Generated (Agency)</div>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h2>Selected Case Studies</h2>
+
+  <div class="case-study">
+    <h3>Qolo, Inc — Building People Ops from Zero</h3>
+    <p><strong>Context:</strong> Series A fintech startup scaling fast with no formal HR or recruiting infrastructure.</p>
+    <ul>
+      <li>Grew headcount from 20 → 114 in under 12 months</li>
+      <li>Built TA and HR functions from scratch</li>
+      <li>Implemented Greenhouse, compensation bands, and people programs</li>
+      <li>Earned Great Place to Work certification</li>
+    </ul>
+    <p><strong>Outcome:</strong> Scalable, compliant, people-first organization aligned with business growth.</p>
+  </div>
+
+  <div class="case-study">
+    <h3>MediaMath — Global Engineering Hiring Reset</h3>
+    <p><strong>Context:</strong> Engineering pipeline stalled across international teams.</p>
+    <ul>
+      <li>Hired 12 engineers globally in first 90 days</li>
+      <li>Redesigned interview process to a 3-step panel</li>
+      <li>Reduced candidate drop-off and leadership time investment</li>
+    </ul>
+    <p><strong>Outcome:</strong> Faster hiring, higher acceptance rates, restored confidence in TA.</p>
+  </div>
+
+  <div class="case-study">
+    <h3>Wagmo — First Recruiter, Immediate Impact</h3>
+    <p><strong>Context:</strong> Early-stage company preparing for Series B.</p>
+    <ul>
+      <li>Closed 3 revenue-driving sales roles in first 30 days</li>
+      <li>Built hiring frameworks across Sales, Engineering, and Analytics</li>
+      <li>Partnered directly with COO and executive leadership</li>
+    </ul>
+    <p><strong>Outcome:</strong> Hiring foundation built for next phase of growth.</p>
+  </div>
+</section>
+
+<section class="container">
+  <h2>Experience Snapshot</h2>
+  <p>
+    Director-level and Head-of-function leadership across fintech, adtech, startups, and enterprise.
+    Deep experience partnering with founders, CTOs, CFOs, and executive teams to align hiring with business reality.
+  </p>
+</section>
+
+<section class="container">
+  <h2>Tools & Technology</h2>
+  <div class="tools">
+    <span class="tool">Greenhouse</span>
+    <span class="tool">iCIMS</span>
+    <span class="tool">Workday</span>
+    <span class="tool">UKG</span>
+    <span class="tool">TriNet (PEO)</span>
+    <span class="tool">Salesforce</span>
+    <span class="tool">HubSpot</span>
+    <span class="tool">SQL (Foundational)</span>
+    <span class="tool">Excel (Advanced)</span>
+  </div>
+</section>
+
+<footer>
+  <p>
+    Based in South Florida • Open to senior Talent & People leadership roles
+  </p>
+  <p>
+    <a href="mailto:john.indiveri@icloud.com">john.indiveri@icloud.com</a>
+  </p>
+</footer>
+
+</body>
+</html>
